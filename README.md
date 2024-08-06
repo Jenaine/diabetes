@@ -1,4 +1,24 @@
-# diabetes
+# Diabetes
+
+# Motivação e objetivo
+
+O Diabetes Mellitus é uma condição crônica que afeta milhões de pessoas em todo o mundo. O crescimento acentuado da prevalência nas últimas décadas se apresenta como um grave problema de saúde pública. Com o crescente volume de dados de saúde disponíveis, há uma oportunidade de usar modelos de inteligência artificial para melhorar a detecção precoce, o diagnóstico e o gerenciamento de diabetes. A aplicação de técnicas de aprendizado de máquina pode fornecer insights valiosos que auxiliam profissionais de saúde na tomada de decisões e no tratamento dos pacientes.
+
+# Objetivo:
+Desenvolver um modelo de aprendizado supervisionado que possa prever a presença de diabetes em indivíduos com base em um conjunto de indicadores de saúde. Usaremos o dataset CDC Diabetes Health Indicators para treinar e testar o modelo, visando obter um classificador eficaz que possa diferenciar entre indivíduos com e sem diabetes.
+
+# Descrição do Dataset
+O conjunto de dados CDC Diabetes Health Indicators contém informações de 253.680 indivíduos, com 21 características relacionadas à saúde e estilo de vida, como idade, IMC, pressão arterial, histórico de tabagismo, e outros. As variáveis de saída são categóricas, indicando se o indivíduo é saudável, pré-diabético ou diabético.
+
+https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
+
+
+# Próximos Passos
+Prosseguir com a construção e treinamento de modelos de IA utilizando o banco de dados sobre diabetes, aplicando técnicas de pré-processamento e validação de dados para melhorar a precisão dos resultados. 
+
+
+
+
 ## Metadata 
 - `uci_id`: Unique dataset identifier for UCI repository 
 - `name`
